@@ -1,0 +1,369 @@
+horse;An equine animal;5
+ampersand;'@' Sign;9
+people;Human beings;6
+dynamite;Nitroglycerin;8
+dilute;To reduce the strength of;6
+view;To observe;4
+cacao;Unprocessed cocoa;5
+reproduction;A copy;12
+happen;To occur by chance;6
+bar;A counter where alcohol is served;3
+balance;Equlibirium;7
+useful;Practical;6
+launch;To take off;6
+advisor;Someone who gives advice;7
+cornucopia;A large horn filled with overflowing bounties;10
+bucket;A cylindrical container;6
+bargain;To haggle;7
+live;To be alive;4
+install;To setup for use or service;7
+electron;The particle(s) which orbit an nucleus in an atom;8
+location;A place;8
+video;A digital recording of an image or multiple images;5
+poor;Impoverished;4
+prince;An American singer-songwriter, also a son of the sovereign;6
+bet;To wager;3
+mail;An outdated form of sending messages to others;4
+banish;To exile, usually by a member of authority;6
+achieve;To carry out successfully;7
+tournament;A series of contests that consists of a single competition;10
+colon;part of the large intestine;5
+active;To be energetic;6
+mayor;An elected head of a city or town;5
+lake;A sizable basin of water closed off by land;4
+proof;Evidence which indicates truth;5
+concept;An abstract realisation of something;7
+incident;An event resulting from an action;8
+waist;The area on the body which sits above the hips;5
+kneel;A show of respect, commonly shown when meeting with royalty;5
+line;A long, narrow mark or band;4
+steep;An incline, denoting an area of land which sharply rises;5
+aluminium;A metal which is commonly used in aircrafts;9
+treat;An reward;5
+unrest;Given rise to turmoil;6
+decide;To make a judgement regarding a choice;6
+accept;To agree;6
+mild;Non-spicy curry;4
+commerce;The exchanging or buying and selling of commodities;8
+royalty;A member of the ruling party within a sovereignty;7
+slow;Something lacking in speed;4
+cart;A construct used to transport goods, traditionally hand-drawn;4
+blade;The edge of a cutting implement;5
+sell;To offer for sale;4
+disappointment;To feel dissatisfication;14
+fight;Engage in a struggle, usually physical combat;5
+warning;Something which alerts others of perils;7
+sandwich;A tasty snack consisting of two bread slices with various fillings;8
+rob;A name of a gentleman, or to steal;3
+robot;A machine capable of independent complex actions, Johnny 5;5
+diplomacy;The display of tact to mediate opposing parties;9
+printer;A machine used to convert computer imagery to physical objects;7
+city;A densely populated place;4
+frighten;To scare;8
+session;A meeting or period devoted to a particular activity;7
+evolution;The process of advancement, coined by Charles Darwin;9
+watch;To view, also a device to display time;5
+crude;Oil which can be refined into useful products;5
+crisis;An urgent event;6
+as;To the same degree or amount;2
+an;Used in place of 'a' before words with vowel sounds;2
+no;Opposite of yes;2
+up;Eventually comes down, A cardinal direction;2
+on;An electronic which is powered and operating;2
+we;The pronoun of a collective;2
+or;One __ the other;2
+go;To move;2
+by;In regards to something or someone;2
+get;To acquire something;3
+pot;A rounded container use to hold things;3
+sip;The proper way of tasting wine, to intake a small amount of liquid;3
+cat;A feline animal;3
+set;To place down something;3
+map;A product of cartographers used to survey the land;3
+mud;A substance consisting of dirt and water;3
+log;A description of how someone sleeps, the trunk of a tree after being cut;3
+new;Something which has been recently produced;3
+few;Easily countable with one hand;3
+try;To attempt something;3
+law;A set of rules which are foundations of a society;3
+nap;A shorter version of sleeping commonly exhibited by cats;3
+top;Garments that cloth the torso;3
+joy;An expression of glee;3
+gem;A precious cut stone;3
+owl;A nocturnal bird with sizable eyes;3
+bin;A container that is used to store rubbish;3
+fix;The act of repairing something;3
+net;An open-meshed fabric used as an entrapping device;3
+art;An abstract concept that is incredible opinionated;3
+bag;A receptacle with woven straps used to hold items;3
+ego;The foundation of a narcissist, one's self value;3
+tie;A staple set used when wearing a suit, to restrain;3
+run;To flee quickly;3
+oak;A tree commonly used as woodworking materials;3
+use;To operate something;3
+bat;An nocturnal animal which uses ultrasound for sight;3
+beg;To grovel;3
+ask;To pose a question;3
+war;Never changes, a conflict;3
+dip;To slightly submerge something into a liquid;3
+buy;To purchase;3
+ear;An outer organ used for hearing in animals;3
+lip;The outer edges of the mouth commonly decorated with colours;3
+add;Opposite of subtraction;3
+owe;To be indebted;3
+cry;The process where salted water flows from tear ducts, relating to boys and wolves;3
+win;To emerge victorious;3
+age;Like a fine wine, a measurement of its existence;3
+cow;A four-legged domesticated animal favoured for its meat, milk, and farts;3
+bay;A small body of water set off from the main body;3
+boy;Male equivalent of girl;3
+bed;Furniture that is used for sleep;3
+rub;To press against something with a back and forward movement;3
+cup;A receptacle used to hold liquids;3
+hear;To perceive sounds;4
+keep;To own something;4
+cute;To describe something adorable;4
+soap;A daily essential used to clean your body;4
+fare;The price for transport services;4
+warm;An moderate ambient temperature;4
+tone;A particular pitch;4
+left;A cardinal direction, to leave something;4
+slam;To throw something onto the ground with significant force;4
+oral;Relating to the mouth;4
+stop;To freeze in place;4
+sock;Clothing which wraps the feet and ankles;4
+bind;To restrict, or to be placed in a predicament;4
+tell;To express something to someone, usually with words;4
+maze;A series of paths that may result into a dead end, an exit, or confusion;4
+head;Stuck on to the neck, consists of the brain, eye, ears and other facial features;4
+bend;To contort something;4
+rice;A staple for diets in Eastern cultures;4
+bird;An avian creature;4
+post;An wooden stump hammered into the ground;4
+know;To be aware of something;4
+boat;A small vehicle used to navigate water;4
+heir;A direct descendant of a family whom is next in line to be head;4
+soup;A food made with vegetables and/or meats within a large amount of liquids;4
+spot;A location or circle like pattern;4
+bell;A distinctly shaped object, which produces sound, commonly found in churches;4
+bolt;A heavy pin having a head at one end and the other hammered flat;4
+desk;A table;4
+land;An area of ground;4
+rate;The occurrence of something;4
+bold;Something which is pronounced;4
+feed;To give food to something;4
+rank;The relative standing or position;4
+bean;A plant bearing seeds or fruit similar to this, can also be found in pods;4
+bury;To submerge something into the ground;4
+loot;To obtain an object unceremoniously such as from a corpse;4
+vote;To make an official choice through a ballot or other means;4
+crop;A plant or animal product that is grown and harvested;4
+snap;To break something, usually in two;4
+tile;A shaped object used to cover walls and roofs;4
+dead;The state which something is inanimate;4
+calf;The young offspring of a cow;4
+pass;A form of identification as well as to move through something;4
+loss;The act of failing to maintain something or someone;4
+gasp;A short, sudden intake of air;4
+chop;A vertical motion which starts (above) head level;4
+merit;A quality deserving to be praised;5
+tense;Stretched tight;5
+rebel;A person that acts outside the law;5
+sound;Waves that travel through the air;5
+wheel;A circular frame which turns on an axle;5
+raise;To lift vertically;5
+bacon;A product of a pig, cured and smoked, a regular for breakfast;5
+tasty;To describe something which has a appealing flavour;5
+cheat;To bend the rules;5
+blank;Devoid of content, colourless;5
+glare;A sharp stare;5
+spite;To curse something;5
+means;In relation to someone's understanding of something;5
+motif;A mark which expresses someone's personal take on something;5
+shine;To illuminate;5
+piece;A portion of something, like cake;5
+admit;To acknowledge something;5
+awful;A feeling which irks someone negatively;5
+hobby;A pursuit that happens in one's own relaxation;5
+reign;The period of time which a sovereignty rules over a country;5
+throw;To toss something;5
+entry;The point where someone can enter somewhere;5
+large;In other words, sizable;5
+stuff;Miscellaneous items belonging to someone;5
+point;To extend ones index finger out to direct;5
+sight;The ability to see;5
+theft;An act of stealing;5
+siege;A military blockade of a city;5
+class;A group, set, or kind sharing common qualities;5
+glove;Clothing that covers the hand with each finger having separate sections;5
+scale;An instrument used for weighing;5
+relax;To relieve nervous tension;5
+movie;A recording of moving images that tells a story;5
+creed;A pact;5
+leave;To exit;5
+grief;To mourn for something lost;5
+orbit;To revolve circularly around a body due to gravity;5
+shock;A surprise, or a sudden current;5
+shape;The form/contortion of an object;5
+plead;To beg;5
+coast;A topography term used to describe land bordering water;5
+error;A mistake;5
+linen;Fabric made from woven flax;5
+stool;A small seat only supported by three or four legs;5
+house;A building which shelters people against the elements;5
+blame;To place responsibility for;5
+stroke;To rub gently in one direction;6
+excuse;Reason or justification;6
+scream;To yell out loudly;6
+window;An opening usually on the wall of buildings to allow light and air through;6
+barrel;An cylindrical container commonly made with bent wood boards;6
+horror;A genre of media which expresses fear;6
+extort;To obtain from a person using force and intimidation;6
+supply;The quantity of a commodity needed or available;6
+member;A person that is part of a party or organisation;6
+manual;Guides which describe how to do something;6
+pillow;A fluffy cushion/sack traditionally stuffed with straw or goose feathers;6
+switch;To swap places between two things;6
+sample;A small portion of something used as a taster;6
+singer;Someone who's occupation involves using their voice to produce music;6
+ticket;A token showing an fare has been paid, golden in nature;6
+common;Something expectant or likely to happen;6
+tender;Soft in nature;6
+infect;To contaminate;6
+preach;To lecture, usually religious teachings;6
+remark;To express an opinion;6
+pierce;To puncture with enough force through one end to the other;6
+stitch;To mend using thread, clothing and wounds;6
+basket;A container that is commonly made by weaving plant fibers;6
+car;An automobile used for transportation;3
+corner;The place where two sides or edges meet;6
+excess;An amount more than necessary;6
+single;One;6
+jockey;A person who rides a horse professionally in racing competitions;6
+bloody;Lathered in blood;6
+kettle;An electric device use to boil water;6
+ladder;A structure for climbing up or down;6
+bundle;A group of things fastened together for convenient handling;6
+apathy;The lack of feeling or emotion;6
+studio;A workplace usually for a painter or other artistic pursuits;6
+freeze;To place under subzero temperatures;6
+colony;A collection of people settling in new lands;6
+virtue;A person with good moral countenance;6
+inside;The interior of a place;6
+throat;The passage through the neck to the stomach and lungs;6
+camera;A device which captures and stores images;6
+lawyer;A profession which involves studying law;6
+clique;An exclusive collection of people;6
+circle;A 2D shape which holds no edges;6
+crutch;A walking device that assists moving, in the event of a leg injury;6
+expand;To grow in size;6
+bottle;A receptacle that holds liquids with a peculiar shape and a cap on top;6
+affair;A matter or concern;6
+storage;A place where stuff is kept;7
+channel;A strait or narrow sea between two landmasses;7
+sulphur;A product of oxygen exposure where it rises as gas from volcanoes;7
+content;To feel satisfied;7
+emotion;A strong feeling;7
+license;Permission to engage in certain activities;7
+pasture;An area of land where animals graze in;7
+freckle;A facial blemish;7
+explain;To describe something in detail;7
+captain;The head of a ship and other vehicles, also a military rank;7
+miracle;A positive unexplainable event, usually supernatural in nature;7
+partner;A person with whom one shares an intimate relationship;7
+sunrise;The period of time where the sun emerges over the horizon;7
+protest;To exclaim in disagreement with something;7
+meeting;A collective gathering for discussion;7
+pyramid;A 3D shape consisting of a polygon base and triangle faces with a common point;7
+teacher;A person who educates others;7
+feature;An aspect or quality;7
+respect;A sign of deep admiration towards someone or something;7
+formula;A mathematical notation that associates symbols to facts or data;7
+venture;To go somewhere that is unknown and otherwise dangerous;7
+factory;A building with facilities for manufacturing;7
+journal;A personal record of experiences and ideas;7
+genuine;Something which is original;7
+replace;To change something in place of another;7
+dismiss;To let go;7
+compete;To participate;7
+squeeze;The act of pressing together an object;7
+monster;Something or existence that one would find abhorrent;7
+snuggle;To cozy up to something;7
+harmony;The point where a group of singers match pitch perfectly;7
+evening;The time of day after the sun has set;7
+cutting;The act of dissecting something;7
+purpose;The justification which one does things;7
+prosper;To succeed and thrive;7
+compose;To create, commonly used to describe the creation of music;7
+secular;Occuring once in an age or a century;7
+highway;The main direct road;7
+biology;The study of living things;7
+volcano;A mountainous funnel that connects the surface to the mantle;7
+primary;The main or first in rank;7
+perfect;Something meeting all expectations;7
+address;House number, road, city, zipcode;7
+include;To take in or to associate with;7
+company;A band of brothers, a group of people working under a name;7
+sympton;The results of a diagnosis;7
+dominant;To take precedence over another;8
+fountain;A pool of flowing water that's enclosed and used for display;8
+cemetery;A place one buries the dead;8
+shortage;With limited supply;8
+ancestor;Our predecessor, the Homo Erectus;8
+resource;Source of supply;8
+election;An event which involves the voting for a (governmental) position;8
+movement;The act of motion;8
+computer;Simplified, a device that executes simple logic,8
+rotation;The circular movement around an axis;8
+research;To (produce a) study;8
+necklace;An ornament that rest around the neck;8
+finished;To have completed;8
+security;The definition of safety;8
+unlikely;To describe a low probability;8
+increase;To rise in amount;8
+approach;The act of moving towards somewhere;8
+feminist;A person who advocates for female rights;8
+dialogue;A conversation;8
+response;A retort to something asked, likely a question;8
+fragrant;Something which smells pleasant and pungent;8
+absolute;100%, something which is fixed;8
+railroad;The path which a train runs along;8
+accident;A mishap;8
+abortion;The act of terminating an preborn;8
+misplace;To leave things elsewhere instead of where they are meant to be;8
+reliance;A dependence on someone or something;8
+identity;The notion of one's ego or conscience to define oneself;8
+password;A multi-digit combination used for encryption;8
+appendix;The redundant part of a human body, also the end of a book;8
+mosquito;Small flying insect that spreads disease by blood sucking;8
+handicap;A limitation, usually in place to make things fair;8
+dedicate;To devote yourself to something;8
+carriage;A small enclosed space with wheels that are traditionally horse-drawn;8
+appetite;Cravings and hunger;8
+dramatic;Something shocking and impactful;8
+contract;To shrink;8
+creation;'Then God said,'let there be _';8
+mountain;Formed when two tectonic plates collide;8
+pavement;A path for pedestrians to walk on;8
+bathroom;A facility usually with a toilet, sink, and bathtub;8
+magnetic;Possessing a strong power of attraction;8
+courtesy;Polite behaviour and mannerisms;8
+rhetoric;An open-ended question;8
+hospital;An institute which specialises in treating medical conditions;8
+spectrum;A range or expanse of classifications;8
+scenario;A setting, commonly used to describe a story;8
+suitcase;An enclosed box used to transport items, commonly handheld;8
+mutation;A sudden change, used when describing an abnormal change in the cells;8
+forecast;The description of the weather;8
+employee;A member of a company;8
+marathon;A event that involves (strenuous) activities for a long period of time;8
+familiar;Something or someone recognisable;8
+calendar;An invention to record the dates;8
+volunteer;Someone who participates without personal gain;9
+assertive;Someone who is domineering and confrontational;9
+magnitude;The severity of an event, measurement for earthquakes;9
+provision;Daily essentials, usually food and water;9
+vegetation;Another name for fauna and the like;10
+family;You never turn your back on it.;6
+family;You never turn your back on it.;6
+family;You never turn your back on it.;6
